@@ -1,6 +1,6 @@
 # workshop-graphql
 
-:ferris_wheel: GraphQL workshop practice at MedJS - 01-01-2018
+:ferris_wheel: GraphQL workshop practice at MedJS - 31-01-2018
 
 ## Build Setup
 
